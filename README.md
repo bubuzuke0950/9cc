@@ -1,5 +1,5 @@
-# Usage
-
+# a compiler that compiles a single integer
+## Usage
 compile
 ```
 make
